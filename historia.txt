@@ -6,6 +6,14 @@ soy ingeniero de instrumentación y control
 
 me conocen como jcob the fk
 
+<<<<<<< HEAD
 "un parentesis para poner cualquier codita en la rama master"
 
 trabajé por 4 años en la compañia de galletas noel
+=======
+trabajé por 4 años en la compañia de galletas noel
+
+acutalmente trabajo en la empresa 2nv
+
+Este es el final de mi historia
+>>>>>>> cabecera
